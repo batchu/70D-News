@@ -1,0 +1,6 @@
+.video-text{
+    align-content: center;
+}
+video {
+    object-fit: fill;
+}
